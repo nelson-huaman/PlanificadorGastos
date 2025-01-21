@@ -27,7 +27,7 @@ function BudgetTracker() {
                className="bg-pink-700 w-full p-2 text-white uppercase font-bold rounded-lg"
                onClick={() => dispatch({type: 'reset-app'})}
             >
-               Resetar App
+               Resetear App
             </button>
 
             <AmountDisplay
